@@ -1,0 +1,6 @@
+{
+  "name": "حضوروغیاب شمسی",
+  "description": "سیستم آفلاین ثبت حضوروغیاب و ساعت کاری هوشمند بر پایه جی‌پی‌اس و تقویم شمسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
